@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Aman Singh Rawat 👋
 
-<!--
-**amanrawat7610/amanrawat7610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | SQL | MS Excel ||Power bi||Tableau| Data Analytics
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 📊 Interested in Data Analytics and Research
+- 🔍 Interested in data cleaning and data visualization
+- 📈 Working on data analytics projects
+- 🎯 Goal: To become a good Data Analyst
+- 💬Ask me about anything
+- 🔍 How to reach me - amanrawat7610@gmail.com
+
+## 🛠️ Skills
+
+- SQL
+- Microsoft Excel
+- PowerBi
+- Tableau
+- Python
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/aman-singh-rawat-330803229
+- Portfolio Website: https://amanrawat7610.github.io/My_porfolio_webpage/

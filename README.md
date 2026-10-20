@@ -1,4 +1,12 @@
 # Hi, I'm Aman Singh Rawat 👋
+<p>
+  <a href=" www.linkedin.com/in/aman-singh-rawat-330803229">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="(https://amanrawat7610.github.io/My_porfolio_webpage/)">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ### Aspiring Data Analyst | SQL | MS Excel ||Power bi||Tableau| Data Analytics
 
